@@ -1,4 +1,4 @@
-module github.com/baojiweicn/gocui.git
+module github.com/baojiweicn/gocui
 
 go 1.13
 
